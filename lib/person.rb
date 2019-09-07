@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 class Person 
+=======
+class Dog
+>>>>>>> f55edba2b037c490288c3c1d895d989992e1ff2b
   def name
     @name
   end
